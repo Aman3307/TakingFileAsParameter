@@ -1,0 +1,42 @@
+{
+  "ArrayOfPNRQueue": {
+    "PNRQueue": [
+      {
+        "QueueName": "EMRFND",
+        "PaymentMode": "AG",
+        "TemplateBody": "Dear {{PAXNAME}}, your request for refund pertaining to SpiceJet PNR {{PNR}} has been initiated. Please check the credit status with your Travel Agency using the PNR/Booking Reference No. within 15 working days.",
+        "TemplateID": "1107163576128781488"
+      },
+      {
+        "QueueName": "EMRFND",
+        "PaymentMode": "NONAG",
+        "TemplateBody": "Dear {{PAXNAME}}, your request for refund pertaining to SpiceJet PNR {{PNR}} has been initiated. Please check your original source of payment for the credit status within 10 working days.",
+        "TemplateID": "1107163583294981010"
+      },
+      {
+        "QueueName": "NSHREV",
+        "PaymentMode": "AG",
+        "TemplateBody": "Dear {{PAXNAME}}, your request for refund pertaining to SpiceJet PNR {{PNR}} has been initiated. Please check the credit status with your Travel Agency using the PNR/Booking Reference No. within 15 working days.",
+        "TemplateID": "1107163576128781488"
+      },
+      {
+        "QueueName": "NSHREV",
+        "PaymentMode": "NONAG",
+        "TemplateBody": "Dear {{PAXNAME}}, your request for refund pertaining to SpiceJet PNR {{PNR}} has been initiated. Please check your original source of payment for the credit status within 10 working days.",
+        "TemplateID": "1107163583294981010"
+      },
+      {
+        "QueueName": "BQREV",
+        "PaymentMode": "AG",
+        "TemplateBody": "Dear {{PAXNAME}}, your request for refund pertaining to SpiceJet PNR {{PNR}} has been initiated. Please check the credit status with your Travel Agency using the PNR/Booking Reference No. within 15 working days.",
+        "TemplateID": "1107163576128781488"
+      },
+      {
+        "QueueName": "BQREV",
+        "PaymentMode": "NONAG",
+        "TemplateBody": "Dear {{PAXNAME}}, your request for refund pertaining to SpiceJet PNR {{PNR}} has been initiated. Please check your original source of payment for the credit status within 10 working days.",
+        "TemplateID": "1107163583294981010"
+      }
+]
+}
+}
